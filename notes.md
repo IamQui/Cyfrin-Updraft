@@ -30,7 +30,7 @@ Import it into MetaMask
 
 ## Look into running own Ethereum Node ##
 
-## Deploying to a local blockchain using Forge
+## Deploying to a local blockchain using Forge (Foundry)
 
 CLI:
 
@@ -95,7 +95,7 @@ contract DeploySimpleStorage is Script {}
 
 * Second: create function named run
           (run will be your main function for your DeployScript)
-          
+
 
 ```solidity
 // SPDX-License-Identifier: MIT
